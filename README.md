@@ -1,4 +1,4 @@
-# Python-socket-usage
+# Python-socket-simple-usage
 
 ## Socket data transfer:
 * Transfer images from server to client with sockets in python3.
